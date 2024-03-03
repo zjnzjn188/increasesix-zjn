@@ -1,0 +1,26 @@
+{
+  "name": "increasesix-zjn",
+  "version": "1.0.3",
+  "description": "A library that helps you calculate the sum of any 2 numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zjnzjn188/increasesix-zjn"
+  },
+  "homepage": "https://twitter.com/MrRy0n",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "zjnzjn188",
+  "license": "MIT"
+}
